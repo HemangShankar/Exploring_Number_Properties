@@ -1,6 +1,5 @@
 /*
-Name:Hemang Shankar
-Review Lab 1 / FunNumber
+Programmer:Hemang Shankar
 */
 
 import java.util.Scanner; //Import the Scanner Class
